@@ -3,9 +3,6 @@
 ADAS engineer, graduated from **ESIGELEC** (Embedded Systems – Autonomous Vehicles).
 I work on driver-assistance systems and build software on the side: data pipelines, embedded code, tools.
 
-**Currently** · building a self-hosted personal data platform (Docker, PostgreSQL, Grafana, Android app)
-**Interests** · autonomous vehicles · aerospace & defense · cars
-
 #### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
